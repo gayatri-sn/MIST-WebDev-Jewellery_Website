@@ -1,2 +1,2 @@
-# MIST
-This repository consists of all the work that I have done as a member of Management Committee of MIST(Manipal Information Security Team).
+# MIST-WebDev
+This repository consists of the Web Development tasks that I have done as a part of MIST. 
